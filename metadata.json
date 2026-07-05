@@ -1,0 +1,6 @@
+{
+  "name": "HACREATIVE Portfolio",
+  "description": "The official premium visual and graphic design portfolio of Muhamad Haidir (HACREATIVE), featuring an interactive cinematic showcase, custom project filters by category and color, and direct design order capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
