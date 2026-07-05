@@ -6,13 +6,13 @@
 import { Project, Service, Stat } from './types';
 
 export const PERSONAL_INFO = {
-  name: 'Muhamad Haidir',
+  name: 'Haidir',
   brand: 'HACREATIVE',
   subtitle: 'Creative Studio',
   school: 'SMKN 2 Garut',
   major: 'Desain Komunikasi Visual (DKV)',
   role: 'Graphic Designer / Visual Designer Student',
-  phone: '6281654691925', // Formatted from 081 654 691 925
+  phone: '6281564691925', // Formatted from 081 654 691 925
   email: 'team.hacreative@gmail.com',
   instagram: 'hacreativee',
   website: 'https://hacreative.com',
@@ -123,7 +123,6 @@ export const INITIAL_PROJECTS: Project[] = [
     whatsappMessage: 'Halo Muhamad Haidir, saya butuh jasa pembuatan *Banner WhatsApp Business* untuk promosi produk/event saya.',
     featured: false,
     date: 'Januari 2026',
-    client: 'DKV SMKN 2 Garut'
   },
   {
     id: 'p4',
